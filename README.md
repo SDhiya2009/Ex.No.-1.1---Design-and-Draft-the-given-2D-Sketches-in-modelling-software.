@@ -1,5 +1,5 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-## NAME : DHIYA S
+## DATE : 05.09.2026
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -42,7 +42,10 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/08870737-55eb-43d7-a374-dcdf1071dec3" />
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/cfd55523-5621-4eed-8527-6cacd385d8da" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/57cd19ae-ef64-4807-a6ec-49a7cebb2b46" />
+
+
 
 
 
